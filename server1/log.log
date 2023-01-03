@@ -1,0 +1,40 @@
+Broker 1 is the leader
+Broker 1 is the leader
+Broker 1 is the leader
+Broker 1 is the leader
+Broker 1 is the leader
+Broker 1 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Message Sent to Broker 2 --The Topic is :: football --The Message is :: hi2
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 2 is the leader
+Broker 3 is the leader
+Message Sent to Broker 3 --The Topic is :: football --The Message is :: hi3
+Message Sent to Broker 3 --The Topic is :: football --The Message is :: hi5
+Message Sent to Consumer at port 3187--The Topic is :: football --The Message is :: hi5
+Message Sent to Consumer at port 3188--The Topic is :: football --The Message is :: hi5
